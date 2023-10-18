@@ -1,0 +1,1 @@
+Supplier can buy subscription for advertising of product with weekly/monthly merchants and this products will be in top of product list
